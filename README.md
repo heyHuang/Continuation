@@ -3,8 +3,8 @@
 [函数式编程](https://github.com/heyHuang/Continuation/issues/2)  
 [Continuation知识点整理](https://github.com/heyHuang/Continuation/issues/1)  
 [CPS和JavaScript](https://github.com/heyHuang/Continuation/issues/3)  
-[延续continuation和回调callback的区别](https://github.com/heyHuang/Continuation/issues/4) 
-[JavaScript中异步编程和CPS](https://github.com/heyHuang/Continuation/issues/5)
+[延续continuation和回调callback的区别](https://github.com/heyHuang/Continuation/issues/4)  
+[JavaScript中异步编程和CPS](https://github.com/heyHuang/Continuation/issues/5)  
 
 
 
